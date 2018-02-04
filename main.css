@@ -5,10 +5,10 @@ color: #333;
 }        	
 
 .star {
-animation: star 4s ease-out ;
+animation: star 6s ease-out ;
 }
 .wars {
-animation: wars 4s ease-out ;
+animation: wars 6s ease-out ;
 }
 
 /* Keyframes */
